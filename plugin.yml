@@ -1,0 +1,11 @@
+---
+name: straight-plugin
+version: 0.0.1
+main: hibari\straight_plugin\main
+api: 4.2.6
+src-namespace-prefix: hibari\straight_plugin
+permissions:
+  straight.server.admin:
+    description: サーバー管理者
+    default: op
+...
