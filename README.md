@@ -1,2 +1,0 @@
-# straight-plugin
-straight-plugin
